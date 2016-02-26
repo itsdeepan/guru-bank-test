@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36206" started-at="2016-02-24T14:01:23Z" finished-at="2016-02-24T14:02:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36206" started-at="2016-02-24T14:01:23Z" finished-at="2016-02-24T14:02:00Z">
+      <class name="Guru99Bank.Guru99BankTest">
+        <test-method status="PASS" signature="loginToGuruBank(java.lang.String, java.lang.String)[pri:0, instance:Guru99Bank.Guru99BankTest@6108b2d7]" name="loginToGuruBank" duration-ms="11391" started-at="2016-02-24T14:01:25Z" data-provider="Guru99Bank" finished-at="2016-02-24T14:01:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr30144]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ahEdama]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToGuruBank -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Guru99Bank.Guru99BankTest@6108b2d7]" name="tearDown" is-config="true" duration-ms="264" started-at="2016-02-24T14:01:36Z" finished-at="2016-02-24T14:01:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginToGuruBank(java.lang.String, java.lang.String)[pri:0, instance:Guru99Bank.Guru99BankTest@6108b2d7]" name="loginToGuruBank" duration-ms="7438" started-at="2016-02-24T14:01:37Z" data-provider="Guru99Bank" finished-at="2016-02-24T14:01:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToGuruBank -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Guru99Bank.Guru99BankTest@6108b2d7]" name="tearDown" is-config="true" duration-ms="163" started-at="2016-02-24T14:01:44Z" finished-at="2016-02-24T14:01:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginToGuruBank(java.lang.String, java.lang.String)[pri:0, instance:Guru99Bank.Guru99BankTest@6108b2d7]" name="loginToGuruBank" duration-ms="7598" started-at="2016-02-24T14:01:44Z" data-provider="Guru99Bank" finished-at="2016-02-24T14:01:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToGuruBank -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Guru99Bank.Guru99BankTest@6108b2d7]" name="tearDown" is-config="true" duration-ms="185" started-at="2016-02-24T14:01:52Z" finished-at="2016-02-24T14:01:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="loginToGuruBank(java.lang.String, java.lang.String)[pri:0, instance:Guru99Bank.Guru99BankTest@6108b2d7]" name="loginToGuruBank" duration-ms="7359" started-at="2016-02-24T14:01:52Z" data-provider="Guru99Bank" finished-at="2016-02-24T14:01:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToGuruBank -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Guru99Bank.Guru99BankTest@6108b2d7]" name="tearDown" is-config="true" duration-ms="260" started-at="2016-02-24T14:01:59Z" finished-at="2016-02-24T14:02:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Guru99Bank.Guru99BankTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
